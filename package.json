@@ -7,7 +7,7 @@
   "homepage": "https://hither.link",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wisteenio/hither.git"
+    "url": "git+https://github.com/xxwioxx/hither.git"
   },
   "scripts": {
     "dev": "wrangler dev",

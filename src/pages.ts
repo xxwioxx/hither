@@ -1,6 +1,6 @@
 import { storeUrl } from "./apple";
 
-const REPO_URL = "https://github.com/wisteenio/hither";
+const REPO_URL = "https://github.com/xxwioxx/hither";
 const X_HANDLE = "x_wio_x";
 const X_URL = `https://x.com/${X_HANDLE}`;
 const EXAMPLE_ID = "1232780281";

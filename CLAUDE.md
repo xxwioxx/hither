@@ -1,7 +1,7 @@
 # Hither
 
 One App Store link for every country. Free, open-source Cloudflare Worker.
-Repo: https://github.com/wisteenio/hither (MIT).
+Repo: https://github.com/xxwioxx/hither (MIT).
 
 ## How it works
 
